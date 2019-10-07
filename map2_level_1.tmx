@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="25" height="20" tilewidth="64" tileheight="64" infinite="0" backgroundcolor="#1864ab" nextlayerid="4" nextobjectid="1">
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="25" height="20" tilewidth="64" tileheight="64" infinite="0" backgroundcolor="#1864ab" nextlayerid="6" nextobjectid="1">
  <tileset firstgid="1" name="Tiles" tilewidth="64" tileheight="64" tilecount="30" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
@@ -96,12 +96,17 @@
  <tileset firstgid="31" name="Tiles" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
  <layer id="1" name="Platforms" width="25" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2DoAyYgFoNiJhqZz4iGqW0PuvkwLEYHO9DtYaeRHYwUmEuuHeTaSaod5NgzEu0gFwwmO5jQMC8N7MAmh24vMgYBAL2iAPA=
+   eJxjYBgFo2DoAyYgFoNiJhqZz4iGqW0PuvkwLEYHO9DtYaeRHYwUmDtqx6gdo3bgBwCgfgDB
+  </data>
+ </layer>
+ <layer id="4" name="Platformsをコピー" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DoAyYgFoNiJhqZz4iGqW0PuvkwLEYHO9DtYaeRHYwUmDtqx6gdo3bgBwCgfgDB
   </data>
  </layer>
  <layer id="2" name="Coins" width="25" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjAL6A0Yg5qWDHbS2hxEJM0ExMp8adjMSgWF2jwLaAyY0TIv0hS+OsWEQAADE/ABr
+   eJxjYBgFo2AUjILhCRihmJcOdoAwExZMbTuwYQYq2zcK8AP0OKZF+sIWz9jSF3K8AwB6AABR
   </data>
  </layer>
 </map>
